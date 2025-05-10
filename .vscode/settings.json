@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "model.h": "c",
+        "devoir_2.h": "c",
+        "utils.h": "c"
+    }
+}
